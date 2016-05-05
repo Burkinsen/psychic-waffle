@@ -14,3 +14,5 @@ touch (file name) - to create any file
 git status
 git log
 git add . - to add untracked files
+
+GONZI
